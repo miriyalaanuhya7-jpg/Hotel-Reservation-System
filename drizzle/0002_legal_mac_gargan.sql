@@ -1,0 +1,1 @@
+ALTER TABLE `reservations` ADD `guestPhone` varchar(32);
